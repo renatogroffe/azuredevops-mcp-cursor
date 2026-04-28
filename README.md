@@ -1,6 +1,8 @@
 # azuredevops-mcp-cursor
 Configurações para uso do MCP Server do Azure DevOps com Cursor.
 
+Arquivo **mcp.json** (diretório **.cursor**):
+
 ```json
 {
   "mcpServers": {
@@ -14,3 +16,7 @@ Configurações para uso do MCP Server do Azure DevOps com Cursor.
   }
 }
 ```
+
+Exemplo de consutla aos repositórios de um projeto:
+
+![MCP do Azure DevOps](img/cursor-mcp-azdevops-01.png)
