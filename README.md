@@ -17,6 +17,8 @@ Arquivo **mcp.json** (diretório **.cursor**):
 }
 ```
 
-Exemplo de consutla aos repositórios de um projeto:
+Package npm: **https://www.npmjs.com/package/@azure-devops/mcp**
+
+Exemplo de consulta aos repositórios de um projeto:
 
 ![MCP do Azure DevOps](img/cursor-mcp-azdevops-01.png)
